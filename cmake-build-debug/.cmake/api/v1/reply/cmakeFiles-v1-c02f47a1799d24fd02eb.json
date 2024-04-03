@@ -782,8 +782,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/USER/Documents/MatrixCalculator/cmake-build-debug",
-		"source" : "C:/Users/USER/Documents/MatrixCalculator"
+		"build" : "C:/Users/USER/Documents/GitHub/Matrix-Calculator/cmake-build-debug",
+		"source" : "C:/Users/USER/Documents/GitHub/Matrix-Calculator"
 	},
 	"version" : 
 	{

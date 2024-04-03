@@ -1,3 +1,5 @@
 # ninja log v5
 0	1049	7330742470494063	CMakeFiles/MatrixCalculator.dir/main.cpp.obj	cc6ad333306aa1c3
 1050	1241	7330742472388284	MatrixCalculator.exe	f4b9c4fa86ee1507
+3	724	7337692320625866	CMakeFiles/MatrixCalculator.dir/main.cpp.obj	db5892d07531f273
+725	1024	7337692323609746	MatrixCalculator.exe	f4b9c4fa86ee1507
